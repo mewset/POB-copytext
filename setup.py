@@ -1,5 +1,5 @@
 """
-Setup script för Text Template Filler
+Setup script för POB-copytext
 Kör detta en gång för att installera alla dependencies
 """
 
