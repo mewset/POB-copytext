@@ -1,0 +1,6 @@
+Ärendeinfo:
+
+Kund: {Customer_field}
+Modell: {Model_field}
+Serienummer: {Serial_field}
+Felbeskrivning: {Description_field}
