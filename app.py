@@ -8,6 +8,7 @@ import sys
 try:
     import pyperclip
 except ImportError:
+    print("--- pyperclip hittades inte ---")
     print("Installerar pyperclip...")
     try:
         subprocess.check_call([sys.executable, "-m", "pip", "install", "pyperclip"])
